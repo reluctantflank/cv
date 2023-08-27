@@ -1,0 +1,42 @@
+img{
+       height: 180px;
+       width: 180px;
+     }
+body{
+  background-color: #D5FFE4;
+}
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+  }
+h1{
+  color: #435334;
+  }
+h4{
+    color: #5F8D4E;
+    }
+p  {
+      color: #798777;
+    }
+table{
+  color: #798777;
+  height: inherit;
+  width: inherit;
+}
+thead{
+  color: #5F8D4E5F8D4E;
+}
+ul{
+  color: #798777;
+}
+form{
+  color: #435334;
+}
+label{
+  color: #798777;
+}
